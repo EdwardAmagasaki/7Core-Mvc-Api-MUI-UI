@@ -4,6 +4,7 @@ Digite o comando:
 ```
 dotnet new mvc 
 ```
+TELA COM O MATERIAL DESIGN TEMA BLOG INSTALADO:
 ![fgf](./wwwroot/Img/mui-ui/Img_2.png)
 INSTALAÇÃO DO MUI-UI
 ![fgf](./wwwroot/Img/mui-ui/Img_1.png)
