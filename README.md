@@ -9,7 +9,7 @@ TELA COM O MATERIAL DESIGN TEMA BLOG INSTALADO:
 INSTALAÇÃO DO MUI-UI
 ![fgf](./wwwroot/Img/mui-ui/Img_1.png)
 
-Vamos modificar o arquivo /Shared/_Layout.cshtml com o seguinte código:
+Seguindo as instruções do fabricante, vamos modificar o arquivo /Shared/_Layout.cshtml com o seguinte código:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -49,3 +49,6 @@ Vamos modificar o arquivo /Shared/_Layout.cshtml com o seguinte código:
 ```
 ![fgf](./wwwroot/Img/mui-ui/Img_3.png)
 ![fgf](./wwwroot/Img/mui-ui/Img_4.png)
+
+Mas sobre o 
+[MUI - Google Material Design em:](https://www.muicss.com/)
