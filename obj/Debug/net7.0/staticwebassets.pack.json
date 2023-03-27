@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\7Core-Mvc-Api-MUI-UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\7Core-Mvc-Api-MUI-UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\Img\\mui-ui\\Img_1.png",
+      "PackagePath": "staticwebassets\\Img\\mui-ui\\Img_1.png"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\Img\\mui-ui\\Img_2.png",
+      "PackagePath": "staticwebassets\\Img\\mui-ui\\Img_2.png"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\Sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\mui-rtl.css",
+      "PackagePath": "staticwebassets\\css\\mui-rtl.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\mui-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\mui-rtl.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\mui.css",
+      "PackagePath": "staticwebassets\\css\\mui.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\mui.min.css",
+      "PackagePath": "staticwebassets\\css\\mui.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\stylesBigPicture.css",
+      "PackagePath": "staticwebassets\\css\\stylesBigPicture.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\stylesHeroic.css",
+      "PackagePath": "staticwebassets\\css\\stylesHeroic.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\stylesNodernBusiness.css",
+      "PackagePath": "staticwebassets\\css\\stylesNodernBusiness.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\stylesShop.css",
+      "PackagePath": "staticwebassets\\css\\stylesShop.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\css\\stylesSmallBusiness.css",
+      "PackagePath": "staticwebassets\\css\\stylesSmallBusiness.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-Splus.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-Splus.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-aea.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-aea.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-agc.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-agc.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-apollo.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-apollo.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-basic.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-basic.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-cbm.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-cbm.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-cl.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-cl.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-clj.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-clj.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-css.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-css.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-dart.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-dart.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-el.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-el.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-erl.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-erl.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-erlang.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-erlang.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-ex.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-ex.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-exs.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-exs.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-fs.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-fs.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-go.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-go.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-hs.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-hs.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-kotlin.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-kotlin.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lasso.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lasso.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lassoscript.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lassoscript.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-latex.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-latex.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lgt.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lgt.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lisp.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lisp.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-ll.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-ll.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-llvm.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-llvm.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-logtalk.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-logtalk.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-ls.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-ls.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lsp.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lsp.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-lua.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-lua.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-matlab.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-matlab.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-ml.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-ml.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-mumps.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-mumps.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-n.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-n.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-nemerle.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-nemerle.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-pascal.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-pascal.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-proto.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-proto.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-r.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-r.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-rd.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-rd.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-rkt.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-rkt.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-rust.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-rust.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-s.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-s.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-scala.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-scala.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-scm.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-scm.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-sql.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-sql.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-ss.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-ss.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-swift.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-swift.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-tcl.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-tcl.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-tex.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-tex.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-vb.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-vb.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-vbs.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-vbs.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-vhd.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-vhd.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-vhdl.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-vhdl.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-wiki.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-wiki.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-xq.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-xq.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-xquery.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-xquery.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-yaml.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-yaml.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\lang-yml.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\lang-yml.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\prettify.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\prettify.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\prettify.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\prettify.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\run_prettify.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\run_prettify.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\skins\\desert.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\skins\\desert.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\skins\\doxy.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\skins\\doxy.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\skins\\sons-of-obsidian.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\skins\\sons-of-obsidian.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\google-code-prettify\\skins\\sunburst.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\skins\\sunburst.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\mui.js",
+      "PackagePath": "staticwebassets\\js\\mui.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\mui.min.js",
+      "PackagePath": "staticwebassets\\js\\mui.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\side-panel.js",
+      "PackagePath": "staticwebassets\\js\\side-panel.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\do0CodeS\\7Core-Mvc-Api-MUI-UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.7Core-Mvc-Api-MUI-UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.7Core-Mvc-Api-MUI-UI.props",
+      "PackagePath": "build\\7Core-Mvc-Api-MUI-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.7Core-Mvc-Api-MUI-UI.props",
+      "PackagePath": "buildMultiTargeting\\7Core-Mvc-Api-MUI-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.7Core-Mvc-Api-MUI-UI.props",
+      "PackagePath": "buildTransitive\\7Core-Mvc-Api-MUI-UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
